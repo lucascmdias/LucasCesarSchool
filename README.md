@@ -11,13 +11,23 @@ Bibliotecas usadas:
 " from __future__ import print_function, division
 
 import torch
+
 import torch.nn as nn
-import torch.optim as optim
+
+import torch.optim as 
+
 from torch.optim import lr_scheduler
+
 import torchvision
+
 from torchvision import datasets, models, transforms
+
 import matplotlib.pyplot as plt
+
 import numpy as np
+
 import time
+
 import os
+
 import copy "
